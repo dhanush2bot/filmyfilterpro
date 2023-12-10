@@ -21,11 +21,9 @@ class script(object):
 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/filmyspotupdate">𝗙𝗶𝗹𝗺𝘆𝗦𝗽𝗼𝘁</a></b>"""
 
     SOURCE_TXT = """
-<b>Hᴇʏ, Tʜɪs ɪs ɴᴏᴛ ᴀ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.
+<b>🌟 𝐓𝐡𝐚𝐧𝐤 𝐲𝐨𝐮 𝐟𝐨𝐫 𝐜𝐡𝐞𝐜𝐤𝐢𝐧𝐠 𝐨𝐮𝐭 𝐭𝐡𝐢𝐬 𝐚𝐦𝐚𝐳𝐢𝐧𝐠 𝐛𝐨𝐭! 🤖 𝐔𝐧𝐟𝐨𝐫𝐭𝐮𝐧𝐚𝐭𝐞𝐥𝐲, 𝐢𝐭'𝐬 𝐧𝐨𝐭 𝐚𝐧 𝐨𝐩𝐞𝐧-𝐬𝐨𝐮𝐫𝐜𝐞 𝐩𝐫𝐨𝐣𝐞𝐜𝐭. 𝐈𝐟 𝐲𝐨𝐮'𝐫𝐞 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐞𝐝 𝐢𝐧 𝐡𝐚𝐯𝐢𝐧𝐠 𝐚 𝐛𝐨𝐭 𝐣𝐮𝐬𝐭 𝐥𝐢𝐤𝐞 𝐭𝐡𝐢𝐬 𝐨𝐧𝐞, 𝐩𝐥𝐞𝐚𝐬𝐞 𝐫𝐞𝐚𝐜𝐡 𝐨𝐮𝐭 𝐭𝐨 𝐭𝐡𝐞 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐛𝐲 𝐜𝐥𝐢𝐜𝐤𝐢𝐧𝐠 𝐭𝐡𝐞 𝐥𝐢𝐧𝐤 𝐛𝐞𝐥𝐨𝐰! 🚀📲
 
-Tʜɪs Bᴏᴛ ʜᴀs Lᴀᴛᴇsᴛ ᴀɴᴅ Aᴅᴠᴀɴᴄᴇᴅ Fᴇᴀᴛᴜʀᴇs⚡️
-
-Fork our repository and give star ⭐- <a href='https://github.com/Kushalhk/AutoFilter'>📥 ᴄʟɪᴄᴋ ʜᴇʀᴇ 📥</a></b>
+<a href='https://t.me/FilmySpotSupport_bot'>📥 ᴄʟɪᴄᴋ ʜᴇʀᴇ 📥</a></b>
 """
     
     KUSHAL_TXT = """ 
