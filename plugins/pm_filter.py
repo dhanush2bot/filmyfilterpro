@@ -2202,7 +2202,7 @@ async def auto_filter(client, msg, spoll=False):
             files, offset, total_results = await get_search_results(message.chat.id ,search, offset=0, filter=True)
             settings = await get_settings(message.chat.id)
             if not files:
-                await m.delete()
+                await dlt.delete()
                 if settings["spell_check"]:
                     return await advantage_spell_chok(client, msg)
                 else:
@@ -2362,7 +2362,7 @@ async def auto_filter(client, msg, spoll=False):
     if imdb and imdb.get('poster'):
         try:
             hehe = await message.reply_photo(photo=imdb.get('poster'), caption=cap, reply_markup=InlineKeyboardMarkup(btn))
-            await m.delete()
+            await dlt.delete()
             try:
                 if settings['auto_delete']:
                     await asyncio.sleep(300)
