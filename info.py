@@ -25,6 +25,8 @@ PICS = (environ.get('PICS', 'https://graph.org/file/334f55c6c77100e6b85e3.mp4'))
 NOR_IMG = environ.get("NOR_IMG", "https://graph.org/file/41a08d01363c18ca909f1.jpg")
 MELCOW_VID = environ.get("MELCOW_VID", "https://te.legra.ph/file/6f55d902f9bf2d0afd4bb.mp4")
 SPELL_IMG = environ.get("SPELL_IMG", "https://te.legra.ph/file/15c1ad448dfe472a5cbb8.jpg")
+VRFIED_IMG = environ.get("VRFIED_IMG", "https://graph.org/file/aabc6fdeded9159399acf.jpg")
+VRFY_IMG = environ.get("VRFY_IMG", "https://graph.org/file/da163c5617bcab250bd05.jpg")
 
 # Admins, Channels & Users
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '1764208280').split()]
@@ -62,6 +64,7 @@ GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+o_VcAI8GRQ8zYzA9')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/filmyspotupdate')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/filmyspotupdate/76')
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
+HOW_TO_VERIFY = environ.get('HOW_TO_VERIFY', 'https://t.me/filmyspotupdate/76')
 MSG_ALRT = environ.get('MSG_ALRT', 'ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : FilmySpot')
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001867416281'))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'filmyspotrequest')
